@@ -1,2 +1,3 @@
 # tic-tac-toe
-Come play with the computer.
+Come play with the computer fast.
+
